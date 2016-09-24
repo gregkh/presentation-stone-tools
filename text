@@ -1,0 +1,74 @@
+How do kernel developers 
+
+
+Why are we so old-school?
+
+	9 changes an hour / 24 hours a day
+
+	I accept only 1/3 the patches submitted
+
+
+Github/bitbucket/gitlab/etc
+	cons:
+		difficult to do whitespace checking
+		pull request discussion disjoint from mailing list
+		ability to locally test limited
+		constant merge commits
+		requires online access
+		delay between patches
+		does not scale
+	pros:
+		drive-by patches
+		backend testing framework integration
+		getting better
+
+Gerrit
+	cons:
+		patch submission difficult
+		patch series requires topic branches
+		can not see full patch at once
+			one click per file!
+		delay in seeing individual patches
+		local testing difficult
+		impossible to set up / admin
+	pros:
+		can sometimes be scripted
+		everyone knows how to use it
+		PMs like it
+
+email
+	cons:
+		PMs don't understand it
+			(solution, patchwork)
+		people don't use good email clients
+			Documentation/email_clients.txt
+	pros:
+		everyone in the world has it
+		online access not required
+		non-native language supported
+		fast patch review
+		local testing easy
+		everyone can review
+			trains others on your team
+
+
+
+
+email clients
+	good ones
+		claws
+		evolution
+		kmail
+		mutt
+		pine/alpine
+		sylpheed
+		thunderbird
+		tkrat
+
+	bad ones
+		groupwise
+		lotus notes
+		outlook/exchange
+		gmail web interface
+		almost any other web email client
+
