@@ -10,10 +10,33 @@ Why are we so old-school?
 	I accept only 1/3 the patches submitted
 
 
-61 kernel maintainers accepted over 365 patches last year
-12 accepted over 1000 patches last year
+75 kernel maintainers accepted 364 or more patches last year
+13 accepted over 1000 patches last year
 
+	"It's a poor craftsman that blames his tools" does not mean, as so many
+	programmers seem to believe, that tools don't matter at all, only
+	skills do, so if someone failed it can't possibly be their tools, only
+	their skill.
 
+	It means that part of being an expert craftsman is having the
+	experience and skills to select excellent tools, and the experience and
+	skills to drive those excellent tools to produce excellent results.
+	Blaming your tools means either that you lack skill, or that you chose
+	your tools poorly because you lack the experience and skills to choose
+	correctly. Sitting there and defending bad tools does not impress me;
+	it makes you sound like a craftsman who can not tell the difference
+	between good tools and bad tools... and that's a bad craftsman.
+
+	Yes. Tools matter. Good tools won't bring you to your optimum peak
+	performance on your own, but bad tools will guarantee you'll never get
+	there. Bad tools typically take longer to work with, and typically
+	teach bad habits to get around their deficiencies.
+
+	Da Vinci with a mop and a bucket of mud may be a better painter than
+	you, but he would never beat Da Vinci with quality tools.
+
+		https://news.ycombinator.com/item?id=2380679
+		Jeremy Bowers http://www.jerf.org/iri/
 
 Github/bitbucket/gitlab/etc
 	cons:
