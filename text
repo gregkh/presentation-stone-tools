@@ -110,3 +110,44 @@ email clients
 	- everything had at least one other reviewer
 
 
+Why email matters
+
+The goal of any good manager is to help increase the skill level of
+their developers.  To do this, you need to provide ways for them to
+learn how to get better, what to and not to do.
+
+You can try to do this directly, by having senior developers critique
+their contributions, but that usually wastes senior developer's time for
+common issues and problems.
+
+But, if the developer can see others get critiqued, and learn from past
+issues and problems as to how to solve the issue, they have the
+opportunity to learn faster, and with less involvement directly from the
+senior developers.
+
+By doing code review on a web site, it's up to the maintainers of the
+code to always do the review.  If your code is not being reviewed, you
+do not seek out and read reviews from others.
+
+But, if the review is on a mailing list, where everyone is, then
+everyone can always see the review.  Everyone learns from everyone else.
+It also allows everyone to help contribute to reviews.  For by reading
+and reviewing other people's code, you get better on your own.
+
+Also having an easy-to-search history of all code review is invaluable.
+For the linux kernel, there are tools to take any git commit, and track
+it back to the public posting of the patch, and see the discussion of
+that patch.  To try to work backwards from a git commit to a gerrit
+discussion is hard, if not almost impossible.
+
+When reviews happen on a web tool, they are separate from the discussion
+about larger issues, like design, how things interact with other parts
+of the system, and the like.  Yet these types of discussions need to be
+had with everyone on the team, or at least a subset, so to do that in a
+place separate from where the development team is all watching, makes
+things disjointed and harder to understand and follow for everyone
+involved.
+
+
+
+
